@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ted",
+    "name": "TED Talks Daily",
+    "rss": "https://feeds.feedburner.com/TEDTalks_audio"
+  },
+  {
+    "id": "syntax",
+    "name": "Syntax - Web Development",
+    "rss": "https://feed.syntax.fm/rss"
+  },
+  {
+    "id": "npr-news",
+    "name": "NPR News Now",
+    "rss": "https://feeds.npr.org/500005/podcast.xml"
+  },
+  {
+    "id": "france-culture",
+    "name": "France Culture - Les Chemins de la philosophie",
+    "rss": "https://radiofrance-podcast.net/podcast09/rss_10665.xml"
+  },
+  {
+    "id": "techcafe",
+    "name": "Tech Café",
+    "rss": "https://feeds.acast.com/public/shows/techcafe"
+  },
+  {
+    "id": "huberman",
+    "name": "Huberman Lab",
+    "rss": "https://feeds.megaphone.fm/hubermanlab"
+  },
+  {
+    "id": "lex-fridman",
+    "name": "Lex Fridman Podcast",
+    "rss": "https://lexfridman.com/feed/podcast/"
+  },
+  {
+    "id": "floodcast",
+    "name": "Le Floodcast (Gaming)",
+    "rss": "https://feeds.acast.com/public/shows/le-floodcast"
+  },
+  {
+    "id": "stuff-you-should-know",
+    "name": "Stuff You Should Know",
+    "rss": "https://feeds.megaphone.fm/stuffyoushouldknow"
+  },
+  {
+    "id": "la-poudre",
+    "name": "La Poudre",
+    "rss": "https://feeds.acast.com/public/shows/lapoudre"
+  }
+]

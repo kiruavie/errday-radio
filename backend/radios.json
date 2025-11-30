@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lofi1",
+    "name": "Lofi Hip Hop",
+    "streamUrl": "https://stream.nightride.fm/lofi_64",
+    "category": "lofi"
+  },
+  {
+    "id": "chillhop",
+    "name": "Chillhop Radio",
+    "streamUrl": "https://streams.fluxfm.de/Chillhop/mp3-320",
+    "category": "chill"
+  },
+  {
+    "id": "jazzradio",
+    "name": "Jazz Radio Blues",
+    "streamUrl": "https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+    "category": "jazz"
+  },
+  {
+    "id": "smoothjazz",
+    "name": "Smooth Jazz 24/7",
+    "streamUrl": "https://smoothjazz.cdnstream1.com/2586_192.mp3",
+    "category": "jazz"
+  },
+  {
+    "id": "electroswing",
+    "name": "Electro Swing Radio",
+    "streamUrl": "https://stream.laut.fm/electroswing",
+    "category": "electro"
+  },
+  {
+    "id": "deephouse",
+    "name": "Deep House Radio",
+    "streamUrl": "https://stream.laut.fm/deep-house",
+    "category": "electro"
+  },
+  {
+    "id": "classicrock",
+    "name": "Classic Rock Radio",
+    "streamUrl": "https://stream.laut.fm/classicrock",
+    "category": "rock"
+  },
+  {
+    "id": "indierock",
+    "name": "Indie Rock",
+    "streamUrl": "https://stream.laut.fm/indierock",
+    "category": "rock"
+  },
+  {
+    "id": "ambient",
+    "name": "Ambient & Chill",
+    "streamUrl": "https://stream.nightride.fm/chillsynth.m4a",
+    "category": "chill"
+  },
+  {
+    "id": "fip",
+    "name": "FIP Radio",
+    "streamUrl": "https://icecast.radiofrance.fr/fip-hifi.aac",
+    "category": "eclectic"
+  }
+]

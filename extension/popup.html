@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>🎵 Errday Radio</h1>
+
+      <!-- Onglets -->
+      <div class="tabs">
+        <button class="tab-btn active" data-tab="radios">📻 Radios</button>
+        <button class="tab-btn" data-tab="podcasts">🎙️ Podcasts</button>
+      </div>
+
+      <!-- Contenu Radios -->
+      <div id="radios-tab" class="tab-content active">
+        <div id="radio-list" class="item-list"></div>
+      </div>
+
+      <!-- Contenu Podcasts -->
+      <div id="podcasts-tab" class="tab-content">
+        <div id="podcast-list" class="item-list"></div>
+        <div id="episodes-container" class="hidden">
+          <button id="back-btn" class="back-btn">← Retour</button>
+          <h3 id="podcast-title"></h3>
+          <div id="episode-list" class="item-list"></div>
+        </div>
+      </div>
+
+      <!-- Lecteur audio -->
+      <div class="player-container">
+        <div id="now-playing" class="now-playing">Aucune lecture en cours</div>
+        <audio id="player" controls></audio>
+      </div>
+
+      <!-- Message d'erreur -->
+      <div id="error-message" class="error hidden"></div>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
